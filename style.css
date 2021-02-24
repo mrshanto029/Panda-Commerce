@@ -6,10 +6,10 @@
 .carousel-item
 {
     padding: 20px 40px;
-    height: 500px;
+    
 }
 .per
-{
+{ 
     color: hotpink;
 }
 .buy
@@ -25,4 +25,29 @@
 .container
 {
     margin-bottom: 100px;
+}
+.cat1
+{
+    background-color:orange ;
+    padding: 10px 30px;
+}
+.cat2
+{
+    background-color:purple ;
+    padding: 10px 30px;
+}
+.cat3
+{
+    background-color:blue ;
+    padding: 10px 30px;
+}
+.cat1,.cat2,.cat3{
+    border-radius: 15px;
+}
+.categories h1{
+    color: white;
+
+}
+.categories img{
+    width: 100px;
 }
