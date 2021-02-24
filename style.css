@@ -1,0 +1,28 @@
+.orange-bg
+{
+    background-color: #fceae8;
+   
+}
+.carousel-item
+{
+    padding: 20px 40px;
+    height: 500px;
+}
+.per
+{
+    color: hotpink;
+}
+.buy
+{
+    background-image: linear-gradient(to bottom,#ff589B 0%,#ff136f 100%);
+    color: #FFF;
+    border: none;
+    border-radius: 10px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+.container
+{
+    margin-bottom: 100px;
+}
