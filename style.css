@@ -1,4 +1,7 @@
-.orange-bg
+
+body{
+    margin: 120px;
+}.orange-bg
 {
     background-color: #fceae8;
    
@@ -20,6 +23,7 @@
     border-radius: 10px;
     padding: 9px 25px;
     cursor: pointer;
+    
 
 }
 .container
@@ -33,7 +37,7 @@
 }
 .cat2
 {
-    background-color:purple ;
+    background-color:#800080 ;
     padding: 10px 30px;
 }
 .cat3
@@ -50,4 +54,31 @@
 }
 .categories img{
     width: 100px;
+}
+.card-text
+{
+    font-size: 15px;
+}
+.txt{
+    font-size: 15px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer
+{
+    background-color: white;
+    border-top: none;
+}
+#contact
+{
+    height: 400px;
+}
+#contact h6{
+    color:gray;
+}
+footer{
+    text-align: center;
 }
